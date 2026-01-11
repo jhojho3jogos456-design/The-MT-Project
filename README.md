@@ -15,6 +15,7 @@ Simply go into the Releases tab, or click on the Latest Release in the link list
 # Links:
 
 Official Documentation: (Coming Soon)
+
 Latest Release: https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.2-Alpha
 
 I wish you fave fun while trying Muffin Text! :)
