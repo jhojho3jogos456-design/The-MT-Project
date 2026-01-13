@@ -18,4 +18,7 @@ Official Documentation: (Coming Soon)
 
 Latest Release: https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.2-Alpha
 
+Latest Preview Release: https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3-Alpha-P1
+
+
 I wish you fave fun while trying Muffin Text! :)
