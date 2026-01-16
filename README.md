@@ -47,7 +47,6 @@ No installation required.
   
 ## Links
 
-- **Official Documentation:** Coming Soon
 - **Latest Alpha Release:**  
   https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.2-Alpha
 - **Latest Alpha Preview Release:**  
