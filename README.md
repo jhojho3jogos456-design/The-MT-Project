@@ -17,7 +17,7 @@ The goal of Muffin Text is not just to create a programming language inside Turb
 Its main purpose is to demonstrate that **TurboWarp and Scratch-like environments are far more powerful than commonly assumed**.  
 They can be used not only for simple animations and games, but also for complex systems such as:
 - 3D engines (Glue3D as a 3D Engine)
-- Emulators (Some emulator can emulate x86 CPU instructions!)
+- Emulators (Some emulators can emulate x86 CPU instructions!)
 - Virtual machines (A Linux VM with the x86 emulator)
 - And now, a full programming language
 
