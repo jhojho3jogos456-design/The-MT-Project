@@ -42,6 +42,8 @@ No installation required.
 
 - **For MT 0.2 Alpha:**
   https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.2a.md
+- **For MT 0.3 Alpha:**
+  Coming Soon
 
   ---
   
@@ -49,7 +51,7 @@ No installation required.
 
 - **Latest Alpha Release:**  
   https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3-Alpha
-- **Latest Alpha Preview Release:**  
+- **Latest Beta Preview Release:**  
   There are no 0.4 Beta Release preview version right now.
 
 ---
