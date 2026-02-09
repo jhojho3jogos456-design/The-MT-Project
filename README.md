@@ -52,7 +52,7 @@ No installation required.
 - **Latest Alpha Release:**  
   https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3-Alpha
 - **Latest Beta Preview Release:**  
-  There are no 0.4 Beta Release preview version right now.
+  https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.4-Beta-P1
 
 ---
 
