@@ -1,3 +1,15 @@
+# Avaiable README Languages:
+
+## PT-BR:
+https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/READMEptbr.md
+
+## EN-US:
+Default Readme is already in EN-US.
+
+---
+
+
+
 ![Muffin Text Logo](/MTlogo.svg)
 
 # Muffin Text (MT)
