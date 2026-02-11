@@ -65,6 +65,9 @@ No installation required.
   https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3-Alpha
 - **Latest Beta Preview Release:**  
   https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.4-Beta-P1
+  
+- **MT Editor Web: (New)**
+  https://jhojho3jogos456-design.github.io/The-MT-Project/
 
 ---
 
