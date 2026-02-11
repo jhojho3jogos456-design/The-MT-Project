@@ -55,6 +55,9 @@ Você não precisa instalar nada.
 - **Última Versão Beta Preview:**  
   https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.4-Beta-P1
 
+- **Versão Web do MT Editor: (Novo)**
+https://jhojho3jogos456-design.github.io/The-MT-Project/
+
 ---
 
 **Se Divirta experimentando e brincando com o Muffin Text! :)**
