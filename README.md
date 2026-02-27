@@ -1,6 +1,6 @@
 # Avaiable README Languages:
 
-## PT-BR:
+## PT-BR: (a bit outdated)
 https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/READMEptbr.md
 
 ## EN-US:
@@ -61,12 +61,14 @@ No installation required.
   
 ## Links
 
-- **Latest Alpha Release:**  
+- **Last Alpha Release:** 
   https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3.1-Alpha
-- **Latest Beta Preview Release:**  
-  https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.4-Beta-P1
+- **Latest Beta Release:**
+  https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.4-Beta
+- **Latest Beta 0.5 Preview Release:**  
+  *Nothing in there...*
   
-- **MT Editor Web:**
+- **MT Editor Web:** (Web Editor will be updated to 0.4 Beta soon.)
   https://jhojho3jogos456-design.github.io/The-MT-Project/
 
 ---
