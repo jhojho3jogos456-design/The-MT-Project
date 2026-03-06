@@ -1,7 +1,7 @@
 # Avaiable README Languages:
 
 ## PT-BR:
-placeholder
+https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/Readmes/READMEptbr.md
 
 ## EN-US:
 Default Readme is already in EN-US.
@@ -57,9 +57,9 @@ No installation required.
 - **For MT 0.2 Alpha:**
   https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.2a.md
 - **For MT 0.3 Alpha:**
-  Coming Soon
+  https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.3a.md
 - **For MT 0.4 Beta:**
-  Coming Soon
+  https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.4b.md
 
   ---
   

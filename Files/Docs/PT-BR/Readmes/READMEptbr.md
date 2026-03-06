@@ -44,9 +44,9 @@ Você não precisa instalar nada.
 - **Para MT 0.2 Alpha:**
   https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.2a.md
 - **Para MT 0.3 Alpha:**
-  Em breve
+  https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.3a.md
 - **Para MT 0.4 Beta:**
-  Em breve
+  https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.4b.md
 
   ---
   
