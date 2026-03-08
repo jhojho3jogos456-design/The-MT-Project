@@ -55,7 +55,7 @@ Você não precisa instalar nada.
 - **Última Versão Alpha:**  
   https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3.1-Alpha
 - **Última Versão Beta:**  
-  https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.4-Beta
+  https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.4.1-Beta
 - **Última Versão Beta Preview:**  
   *Não há nada aqui*
 
