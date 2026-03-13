@@ -7,6 +7,7 @@ MT é a mesma coisa do que *Muffin Text*.
 
 Este projeto leva o TurboWarp ao seus limites, utilizando-o como uma **máquina virtual**.  
 MT possui sua própria **sintaxe**, **parser**, **executor** e **editor**, todos rodando dentro do TurboWarp.
+Esse projeto não seria possível sem o **[Turbowarp Packager](https://github.com/TurboWarp/packager)**.
 
 ---
 
@@ -17,10 +18,10 @@ O objetivo do Muffin Text não é apenas criar uma linguagem de programação de
 Seu principal objetivo é demonstrar que **o TurboWarp e ambientes semelhantes ao Scratch são muito mais poderosos do que se imagina**.
 
 Eles podem ser usados ​​não apenas para animações e jogos simples, mas também para sistemas complexos como:
-- Motores 3D (Glue3D como motor 3D)
+- Motores 3D (**[Glue3D](https://github.com/GL00B/GLUE3D)** como motor 3D)
 - Emuladores (alguns emuladores podem emular instruções de CPU x86!)
 - Máquinas virtuais (uma VM Linux com o emulador x86)
-- E agora, uma linguagem de programação completa.
+- E agora, uma **linguagem de programação completa.** (Quase)
 
 Às vezes, aquilo que subestimamos é o que mais nos surpreende.
 
@@ -28,12 +29,22 @@ Eles podem ser usados ​​não apenas para animações e jogos simples, mas ta
 
 ## Como usar
 
+Existem dois métodos principais de usar o Muffin Text.
+
+### HTML Local:
+
 1. Acesse a aba **Releases** ou clique em um dos links abaixo.
 2. Baixe a versão mais recente do MT.
 3. Abra o arquivo **HTML** baixado no seu navegador.
 4. O **Editor MT** será executado diretamente no navegador.
 
-Você não precisa instalar nada.
+### MT Web Editor:
+
+1. Simplesmente abri o link do **[MT Web Editor:](https://jhojho3jogos456-design.github.io/The-MT-Project/)**.
+2. O **MT Web Editor** será executado diretamente no navegador.
+
+
+Você não precisa instalar nada em ambos os métodos.
 
 ---
 
@@ -41,27 +52,28 @@ Você não precisa instalar nada.
 
 ### Docs PT-BR:
 
-- **Para MT 0.2 Alpha:**
-  https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.2a.md
-- **Para MT 0.3 Alpha:**
-  https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.3a.md
-- **Para MT 0.4 Beta:**
-  https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.4b.md
+- **[Para MT 0.2 Alpha:](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.2a.md)**
+
+- **[Para MT 0.3 Alpha:](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.3a.md)**
+
+- **[Para MT 0.4 Beta:](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.4b.md)**
+
+### Docs EN-US:
+
+*Em breve*
 
   ---
   
 ## Links
 
-- **Última Versão Alpha:**  
-  https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3.1-Alpha
-- **Última Versão Beta:**  
-  https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.4.1-Beta
-- **Última Versão Beta Preview:**  
-  *Não há nada aqui*
-
-
-- **Versão Web do MT Editor:**
-https://jhojho3jogos456-design.github.io/The-MT-Project/
+- **[Última versão Alpha:](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3.1-Alpha)** 
+  
+- **[Última versão Beta:](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.4.1-Beta)**
+  
+- *RP1 da 0.5 Beta vindo em breve*
+  
+  
+- **[MT Web Editor:](https://jhojho3jogos456-design.github.io/The-MT-Project/)** 
 
 ---
 
