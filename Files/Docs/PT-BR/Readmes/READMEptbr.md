@@ -1,4 +1,4 @@
-![Muffin Text Logo](/MTlogo.svg)
+![Muffin Text Logo](/Logos/MTlogo.svg)
 
 # Muffin Text (MT)
 
