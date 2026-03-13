@@ -12,7 +12,7 @@ Default Readme is already in EN-US.
 
 
 
-![Muffin Text Logo](/MTlogo.svg)
+![Muffin Text Logo](/Logos/MTlogo.svg)
 
 # Muffin Text (MT)
 
