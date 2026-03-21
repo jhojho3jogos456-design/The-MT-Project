@@ -80,7 +80,7 @@ No installation required in both methods.
 - *Beta 0.5 Preview Release coming soon.*
   
   
-- **[MT Web Editor:](https://jhojho3jogos456-design.github.io/The-MT-Project/)** 
+- **[MT Web Editor:](https://coreline35.github.io/The-MT-Project/)** 
 
 ---
 
