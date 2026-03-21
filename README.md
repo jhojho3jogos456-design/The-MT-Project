@@ -48,7 +48,7 @@ There are two main methods to use Muffin Text.
 
 ### Web Editor:
 
-1. Simply open the **[MT Web Editor:](https://jhojho3jogos456-design.github.io/The-MT-Project/)** link.
+1. Simply open the **[MT Web Editor:](https://coreline355.github.io/The-MT-Project/)** link.
 2. The **MT Web Editor** will run directly in the browser.
 
 No installation required in both methods.
@@ -80,7 +80,7 @@ No installation required in both methods.
 - *Beta 0.5 Preview Release coming soon.*
   
   
-- **[MT Web Editor:](https://coreline35.github.io/The-MT-Project/)** 
+- **[MT Web Editor:](https://coreline355.github.io/The-MT-Project/)** 
 
 ---
 
