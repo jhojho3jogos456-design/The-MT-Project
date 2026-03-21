@@ -73,7 +73,7 @@ Você não precisa instalar nada em ambos os métodos.
 - *RP1 da 0.5 Beta vindo em breve*
   
   
-- **[MT Web Editor:](https://jhojho3jogos456-design.github.io/The-MT-Project/)** 
+- **[MT Web Editor:](https://coreline355.github.io/The-MT-Project/)** 
 
 ---
 
