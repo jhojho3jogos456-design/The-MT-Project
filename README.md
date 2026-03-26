@@ -55,15 +55,17 @@ No installation required in both methods.
 
 ---
 
+![Muffin Text Info](/Logos/MTinfologo.svg)
+
 ## Official Documentation
 
 ### PT-BR Docs:
 
-- **[For MT 0.2 Alpha:](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.2a.md)**
+- [For MT 0.2 Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.2a.md)
 
-- **[For MT 0.3 Alpha:](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.3a.md)**
+- [For MT 0.3 Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.3a.md)
 
-- **[For MT 0.4 Beta:](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.4b.md)**
+- [For MT 0.4 Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.4b.md)
 
 ### EN-US Docs:
 
@@ -73,14 +75,14 @@ No installation required in both methods.
   
 ## Links
 
-- **[Last Alpha Release:](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3.1-Alpha)** 
+- [Last Alpha Release](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3.1-Alpha) 
   
-- **[Latest Beta Release:](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.4.1-Beta)**
+- [Latest Beta Release](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.4.1-Beta)
   
-- *Beta 0.5 Preview Release coming soon.*
+- [Latest Preview Release](https://github.com/coreline355/The-MT-Project/releases/tag/0.5-Beta-P1)
   
   
-- **[MT Web Editor:](https://coreline355.github.io/The-MT-Project/)** 
+- [MT Web Editor](https://coreline355.github.io/The-MT-Project/)
 
 ---
 

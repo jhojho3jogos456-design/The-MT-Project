@@ -48,6 +48,8 @@ Você não precisa instalar nada em ambos os métodos.
 
 ---
 
+![Muffin Text Info](/Logos/MTinfologo.svg)
+
 ## Documentação Oficial
 
 ### Docs PT-BR:
@@ -66,14 +68,14 @@ Você não precisa instalar nada em ambos os métodos.
   
 ## Links
 
-- **[Última versão Alpha:](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3.1-Alpha)** 
+- [Última versão Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3.1-Alpha) 
   
-- **[Última versão Beta:](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.4.1-Beta)**
+- [Última versão Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.4.1-Beta)
   
-- *RP1 da 0.5 Beta vindo em breve*
+- [Última versão preview](https://github.com/coreline355/The-MT-Project/releases/tag/0.5-Beta-P1)
   
   
-- **[MT Web Editor:](https://coreline355.github.io/The-MT-Project/)** 
+- [MT Web Editor](https://coreline355.github.io/The-MT-Project/)
 
 ---
 
